@@ -1,0 +1,19 @@
+{
+  "name": "tscbuilder",
+  "version": "0.0.1",
+  "description": "TypeScript Compiler and Builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "compiler",
+    "builder"
+  ],
+  "author": "D.A.Paula",
+  "license": "MIT",
+  "dependencies": {
+    "debugtxt": "0.0.1"
+  }
+}
