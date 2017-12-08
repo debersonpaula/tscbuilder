@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "outDir": "./test/",
+    "outDir": "./testOut/",
     "strict": true
   },
   "include":["./test/**/*.ts"],
