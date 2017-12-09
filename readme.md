@@ -2,13 +2,13 @@
 
 TypeScript Compiler and Builder
 
-Requires TypeScript
-    
-    $ npm install typescript
+Requires TypeScript:
+
+`npm install typescript`
 
 ## Usage
 
-```
+```js
 const debugtxt = require('debugtxt');
 const comp = require('./index');
 
@@ -31,5 +31,3 @@ function compile(){
     comp.CompileTSC(__dirname + '/tsconfig.json');
 }
 ```
-
-
